@@ -9,6 +9,7 @@ export const Plains = () => {
             <Container>
                 <div className="text-center">
                    <h2>Planes</h2>
+                   
                 </div>
 
                 <Row >
