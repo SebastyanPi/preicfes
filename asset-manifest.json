@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/preicfes/static/css/main.f68533bf.css",
+    "main.js": "/preicfes/static/js/main.806d6181.js",
+    "static/js/453.5247a7c7.chunk.js": "/preicfes/static/js/453.5247a7c7.chunk.js",
+    "static/media/header-img2.png": "/preicfes/static/media/header-img2.11ecd51bea1bf91ce615.png",
+    "static/media/color-sharp.png": "/preicfes/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/banner-bg.png": "/preicfes/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/preicfes/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/recurso.png": "/preicfes/static/media/recurso.4e9eceaf5672f6b54a07.png",
+    "static/media/CentraNo2-Bold.ttf": "/preicfes/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/preicfes/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/preicfes/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/preicfes/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/ansiedad.png": "/preicfes/static/media/ansiedad.96ce74fea6de02286162.png",
+    "static/media/hora.png": "/preicfes/static/media/hora.a8163f40469abbaa08ca.png",
+    "static/media/cohete.png": "/preicfes/static/media/cohete.8effa31740a3ec1af7ae.png",
+    "static/media/estrategias.png": "/preicfes/static/media/estrategias.0f12f3381c3586f993b8.png",
+    "static/media/revicons.eot": "/preicfes/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/preicfes/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/preicfes/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter1.svg": "/preicfes/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/preicfes/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/preicfes/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/whats.svg": "/preicfes/static/media/whats.ce762c6a516bcd1b63f2cc2cf8f1f80b.svg",
+    "static/media/nav-icon3.svg": "/preicfes/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/preicfes/index.html",
+    "static/media/nav-icon1.svg": "/preicfes/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/preicfes/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.f68533bf.css.map": "/preicfes/static/css/main.f68533bf.css.map",
+    "main.806d6181.js.map": "/preicfes/static/js/main.806d6181.js.map",
+    "453.5247a7c7.chunk.js.map": "/preicfes/static/js/453.5247a7c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68533bf.css",
+    "static/js/main.806d6181.js"
+  ]
+}
